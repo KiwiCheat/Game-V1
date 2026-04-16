@@ -1,1 +1,1 @@
-# Game-V1
+# Kho Game
